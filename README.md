@@ -12,3 +12,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackNight5644B/Roblo
 
 4. (Tropical Resort Tycoon) Autofarm
 loadstring(game:HttpGet('https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(TRT)%20Autofarm.lua'))()
+
+5. (Military Warfare Tycoon) Unlimited Money/Ammo
+6. loadstring(game:HttpGet('https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/MWT.lua'))()
