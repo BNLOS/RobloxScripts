@@ -15,3 +15,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/BlackNight5644B/Roblo
 
 5. (Military Warfare Tycoon) Unlimited Money/Ammo
 loadstring(game:HttpGet('https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/MWT.lua'))()
+
+6. (Taxi Boss) Autofarm
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(Taxi%20Boss)%20Autofarm.lua'))()
