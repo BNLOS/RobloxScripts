@@ -11,4 +11,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackNight5644B/Roblo
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(Clone%20Tycoon%202)%20Autofarm"))()
 
 4. (Tropical Resort Tycoon) Autofarm
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(TRT)%20Autofarm")))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(TRT)%20Autofarm.lua')))()
