@@ -14,7 +14,7 @@ c.ChildAdded:Connect(function(ch)
     end
 end)
 
-local petNet = loadstring(game:HttpGet("https://rawscripts.net/raw/Pet-Simulator-X!-PSX-Safe-Networking-3732"))()
+local petNet = loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(Pet%20Simulator).lua"))()
 
 local Food = petNet:getPath("Food")
 local Entity = petNet:getPath("Entity")
