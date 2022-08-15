@@ -5,7 +5,7 @@ List
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(Wesbound)%20Autofarm"))()
 
 2. (My Restaurant) Autofarm
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(My%20Restaurant)%20Autofarm"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(My%20Restaurant)%20Autofarm.lua"))()
 
 3. (Clone Tycoon 2) Autofarm
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackNight5644B/RobloxScripts/main/(Clone%20Tycoon%202)%20Autofarm"))()
