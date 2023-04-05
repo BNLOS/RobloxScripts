@@ -1,4 +1,4 @@
-All Roblox Scripts I Found Re-Uploaded To My Github Account So Don't Get Lost Enjoy
+Roblox Scripts That i Founded, ReUpload it To My Github Account So It Don't Get Lost Enjoy
 
 List
 1. (Westbound) Autofarm
